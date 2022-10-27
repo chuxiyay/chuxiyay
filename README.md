@@ -1,5 +1,10 @@
 ### Hi there 👋
+## 🌈 &nbsp;My Stats
 
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chuxiyay&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuxiyay&layout=compact&theme=tokyonight" /> -->
+</div>
 <!--
 **chuxiyay/chuxiyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
